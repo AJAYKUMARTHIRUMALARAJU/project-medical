@@ -11,7 +11,7 @@ This is a web based application developed for health related telugu based websit
 
 **Project Demo Video Link** - https://youtu.be/gIc6EPNZSVQ
 ## github link
-
+https://github.com/THIRUMALARAJUAJAYKUMAR/project-medical.git
 ### Azure services used for this project
 
 -Static Web Apps
