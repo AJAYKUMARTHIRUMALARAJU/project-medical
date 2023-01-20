@@ -8,7 +8,9 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://mango-sky-0298a6700.2.azurestaticapps.net
+
 **Project Demo Video Link** - https://youtu.be/gIc6EPNZSVQ
+## github link
 
 ### Azure services used for this project
 
